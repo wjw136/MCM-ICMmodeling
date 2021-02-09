@@ -1,0 +1,19 @@
+Fit computation did not converge:
+Fitting stopped because the number of iterations or function evaluations exceeded the specified maximum.
+
+Fit found when optimization terminated:
+
+General model:
+     f(x,y) = a + b*x^c*y^d
+Coefficients (with 95% confidence bounds):
+       a =      0.9664  (0.3041, 1.629)
+       b =   2.088e-10  (-8.579e-09, 8.996e-09)
+       c =       9.576  (-13.28, 32.43)
+       d =        3.24  (-1.262, 7.742)
+
+Goodness of fit:
+  SSE: 2.308
+  R-square: 0.7252
+  Adjusted R-square: 0.5878
+  RMSE: 0.6203
+
