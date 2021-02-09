@@ -1,4 +1,5 @@
-# MCM-ICMmodeling
+# MCM-ICMmodeling (by william with teammates)
+
 ## 2021美赛C题代码及思路
 + 代码文件夹里为问题源程序
 + 2103686.pdf为我们的提交论文
